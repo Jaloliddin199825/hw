@@ -1,0 +1,10 @@
+.get{
+    display: flex;
+    justify-content: space-between;
+}
+.gets {
+    justify-content: center;
+}
+.get-get {
+    align-items: flex-end;
+}
